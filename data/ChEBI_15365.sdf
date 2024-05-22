@@ -1,0 +1,122 @@
+
+Marvin  12270700542D          
+
+ 13 13  0  0  0  0            999 V2000
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1433    0.4126    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.6501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0002    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  3  1  0  0  0  0
+  4  5  2  0  0  0  0
+ 10  5  1  0  0  0  0
+  6  4  1  0  0  0  0
+  2  6  2  0  0  0  0
+  8  7  1  0  0  0  0
+  9  7  2  0  0  0  0
+ 11 10  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 11  2  0  0  0  0
+M  END
+> <ID>
+CHEBI:15365
+
+> <NAME>
+acetylsalicylic acid
+
+> <DEFINITION>
+A member of the class of benzoic acids that is salicylic acid in which the hydrogen that is attached to the phenolic hydroxy group has been replaced by an acetoxy group. A non-steroidal anti-inflammatory drug with cyclooxygenase inhibitor activity.
+
+> <STAR>
+3
+
+> <SECONDARY_ID>
+CHEBI:2890; CHEBI:40705; CHEBI:71414; CHEBI:22188; CHEBI:22203
+
+> <SYNONYM>
+salicylic acid acetate; o-carboxyphenyl acetate; O-acetylsalicylic acid; o-acetoxybenzoic acid; Azetylsalizylsaeure; Aspirin; ASA; acide 2-(acetyloxy)benzoique; Acetylsalicylsaeure; Acetylsalicylic acid; Acetylsalicylate; 2-acetoxybenzoic acid; 2-Acetoxybenzenecarboxylic acid; 2-(ACETYLOXY)BENZOIC ACID
+
+> <IUPAC_NAME>
+2-(acetyloxy)benzoic acid
+
+> <INN>
+acidum acetylsalicylicum; acido acetilsalicilico; acide acetylsalicylique
+
+> <BRAND_NAME>
+Easprin
+
+> <FORMULA>
+C9H8O4
+
+> <MASS>
+180.15740
+
+> <MONOISOTOPIC_MASS>
+180.04226
+
+> <CHARGE>
+0
+
+> <SMILES>
+CC(=O)Oc1ccccc1C(O)=O
+
+> <INCHI>
+InChI=1S/C9H8O4/c1-6(10)13-8-5-3-2-4-7(8)9(11)12/h2-5H,1H3,(H,11,12)
+
+> <INCHIKEY>
+BSYNRYMUTXBXSQ-UHFFFAOYSA-N
+
+> <BEILSTEIN_REGISTRY_NUMBER>
+779271
+
+> <CAS_REGISTRY_NUMBER>
+50-78-2
+
+> <GMELIN_REGISTRY_NUMBER>
+218864
+
+> <REAXYS_REGISTRY_NUMBER>
+779271
+
+> <CHEMIDPLUS>
+50-78-2
+
+> <DRUGBANK_ACCESSION>
+DB00945
+
+> <KEGG_COMPOUND_ACCESSION>
+C01405
+
+> <KEGG_DRUG_ACCESSION>
+D00109
+
+> <LINCS_ACCESSION>
+LSM-5288
+
+> <METACYC_ACCESSION>
+CPD-524
+
+> <NIST_CHEMISTRY_WEBBOOK>
+50-78-2
+
+> <PDBECHEM_ACCESSION>
+AIN
+
+> <WIKIPEDIA_ACCESSION>
+Aspirin
+
+> <PUBMED_CITATION>
+11203441; 11402787; 11597554; 11733186; 12852484; 14753751; 15542410; 15590729; 1650428; 18226435; 18335236; 18631321; 19010312; 19386367; 19706045; 21699808; 22866967; 445303
+
+$$$$

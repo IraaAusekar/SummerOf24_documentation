@@ -1,0 +1,59 @@
+{
+    "Disease": {
+        "Parkinson disease 18 (PARK18)": "614251"
+    },
+    "Reactome": {
+        "ISG15 antiviral mechanis": "R-HSA-1169408",
+        "L13a-mediated translational silencing of Ceruloplasmin expressio": "R-HSA-156827",
+        "mTORC1-mediated signallin": "R-HSA-166208",
+        "Deadenylation of mRN": "R-HSA-429947",
+        "AUF1 (hnRNP D0) binds and destabilizes mRN": "R-HSA-450408",
+        "Translation initiation complex formatio": "R-HSA-72649",
+        "Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43": "R-HSA-72662",
+        "Ribosomal scanning and start codon recognitio": "R-HSA-72702",
+        "GTP hydrolysis and joining of the 60S ribosomal subuni": "R-HSA-72706",
+        "Regulation of expression of SLITs and ROBO": "R-HSA-9010553",
+        "Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC": "R-HSA-975956",
+        "Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC": "R-HSA-975957",
+        "M-decay: degradation of maternal mRNAs by maternally stored factor": "R-HSA-9820841",
+        "Z-decay: degradation of maternal mRNAs by zygotically expressed factor": "R-HSA-9820865"
+    },
+    "Function": {
+        "ATP binding": "GO:0005524",
+        "eukaryotic initiation factor 4E binding": "GO:0008190",
+        "identical protein binding": "GO:0042802",
+        "molecular adaptor activity": "GO:0060090",
+        "mRNA binding": "GO:0003729",
+        "RNA binding": "GO:0003723",
+        "translation factor activity, RNA binding": "GO:0008135",
+        "translation initiation factor activity": "GO:0003743",
+        "translation initiation factor binding": "GO:0031369"
+    },
+    "BioProcess": {
+        "behavioral fear response": "GO:0001662",
+        "cap-dependent translational initiation": "GO:0002191",
+        "cellular response to nutrient levels": "GO:0031669",
+        "energy homeostasis": "GO:0097009",
+        "lung development": "GO:0030324",
+        "macromolecule biosynthetic process": "GO:0009059",
+        "miRNA-mediated gene silencing by inhibition of translation": "GO:0035278",
+        "negative regulation of autophagy": "GO:0010507",
+        "negative regulation of peptidyl-threonine phosphorylation": "GO:0010801",
+        "neuron differentiation": "GO:0030182",
+        "positive regulation of cell growth": "GO:0030307",
+        "positive regulation of eukaryotic translation initiation factor 4F complex assembly": "GO:1905537",
+        "positive regulation of G1/S transition of mitotic cell cycle": "GO:1900087",
+        "positive regulation of mRNA cap binding": "GO:1905612",
+        "positive regulation of neuron differentiation": "GO:0045666",
+        "positive regulation of peptidyl-serine phosphorylation": "GO:0033138",
+        "positive regulation of protein localization to cell periphery": "GO:1904377",
+        "positive regulation of protein metabolic process": "GO:0051247",
+        "positive regulation of translation in response to endoplasmic reticulum stress": "GO:0036493",
+        "regulation of cellular response to stress": "GO:0080135",
+        "regulation of presynapse assembly": "GO:1905606",
+        "regulation of translational initiation": "GO:0006446",
+        "response to ethanol": "GO:0045471",
+        "translation": "GO:0006412",
+        "translational initiation": "GO:0006413"
+    }
+}
